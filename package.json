@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint": "awesome-lint README.md",
+    "cleanup": "node scripts/cleanup.mjs"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "@octokit/core": "^3.5.1",
+    "awesome-lint": "^0.18.0",
+    "p-limit": "^4.0.0"
+  },
+  "keywords": [
+    "webapp",
+    "awesomevitejs",
+    "dobeu.net",
+    "dobeu",
+    "vitejs"
+  ],
+  "name": "dobeunet-dev-v100",
+  "description": "Dobeu.net developmetn website using vite.js awesome for the framework.",
+  "dependencies": {
+    "npm": "8.15.1",
+    "vite": "3.0.4",
+    "yarn": "1.22.19"
+  },
+  "version": "0.0.13"
+}
