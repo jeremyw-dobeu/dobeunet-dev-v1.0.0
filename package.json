@@ -9,7 +9,7 @@
     "cleanup": "node scripts/cleanup.mjs"
   },
   "devDependencies": {
-    "react-scripts": "1.0.0",
+    "react-scripts": "5.0.1",
     "@octokit/core": "^3.5.1",
     "awesome-lint": "^0.18.0",
     "p-limit": "^4.0.0"
